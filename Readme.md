@@ -141,12 +141,22 @@ Power Query was used for data cleaning and transformation, while Power BI was us
 
 ## 👨‍💻 Author
 
-### Deep Gaikwad
+**Deep Gaikwad**
 
-**Aspiring Data Analyst**
+🔗 GitHub: https://github.com/deep-gaikwad
 
-**Skills:** Excel | SQL | Python | Power BI | Data Analysis
+🔗 LinkedIn: https://www.linkedin.com/in/deepgaikwad/
 
 ---
 
-⭐ If you find this project useful, feel free to explore the repository.
+**Skills:**  
+Excel | SQL | Python | Power BI | Data Analysis
+
+---
+
+## ⭐ Conclusion
+
+Thank you for visiting this project! ⭐
+
+⭐ If you find this project useful, feel free to star the repository!
+
